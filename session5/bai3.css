@@ -1,0 +1,18 @@
+div{
+    background-color: #f4f4f9;
+    width: 1000px;
+    margin: 0 auto;
+}
+h1{
+    color: #1e90ff;
+    text-align: center;
+}
+.check{
+    text-align: center;
+}
+.plant{
+    text-decoration: line-through underline;
+}
+.p1{
+    font-family: 'Courier New', Courier, monospace;
+}
