@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: #f5f5f5;
+    padding: 30px;
+}
+.card {
+    width: 480px;
+    background: #fff;
+    border-radius: 14px;
+    padding: 20px 24px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header h2 {
+    margin: 0;
+    color: #222;
+}
+.header span {
+    background: #ffe3b3;
+    color: #c77a00;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: bold;
+}
+.info {
+    margin: 10px 0;
+    font-size: 16px;
+    color: #333;
+}
+h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.progress-bar {
+    width: 100%;
+    height: 10px;
+    background: #e5e5e5;
+    border-radius: 10px;
+}
+.progress {
+    width: 65%;
+    height: 100%;
+    background: #2cff2c;
+}
+.date {
+    margin-top: 10px;
+    color: #666;
+    font-size: 15px;
+}
